@@ -1,4 +1,6 @@
 ## 学习笔记和思维导图汇总
 
-[1.jvm思维导图](./xmind/jvm)
+[1.java基础知识思维导图](./xmind/java)
+
+[2.jvm思维导图](./xmind/jvm)
 
