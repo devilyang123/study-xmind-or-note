@@ -9,3 +9,5 @@
 [4.java bio/nio/aio思维导图](./xmind/io)
 
 [5.操作系统思维导图](./xmind/os)
+
+[6.Redis思维导图](./xmind/redis)
